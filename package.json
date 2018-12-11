@@ -1,0 +1,15 @@
+{
+  "name": "keygen",
+  "version": "1.0.0",
+  "description": "eosio key generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eosjs": "^20.0.0-beta2",
+    "eosjs-keygen": "^1.3.2"
+  }
+}
